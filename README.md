@@ -9,4 +9,15 @@
 Not: Diğer Annotationları ‘da ekleyerek yeni testler oluşturabilirsiniz.
 
 Happy Coding! 😇
-asjdhskahdkashds
+
+
+
+Bugün, Selenium WebDriver ve JUnit framework'ü ile otomasyon testlerinin temellerini öğrendik. İlk olarak, Selenium’un web tarayıcılarını nasıl kontrol edebileceğini inceledik. Tarayıcıyı başlatma, doğru URL'ye yönlendirme ve testlerin başında tarayıcıyı optimize etme gibi işlemleri öğrendik. WebDriver’ın tarayıcıyı bizim yerimize nasıl yönettiğini görmek gerçekten öğreticiydi. Ayrıca, tarayıcılar arası uyumluluk sorunlarını çözebilmek için doğru ayarları yapmamız gerektiğini fark ettik.
+
+JUnit framework’ü ile ilgili olarak, testlerin düzenini sağlamak için kullanılan anotasyonları detaylı bir şekilde öğrendik. Testlerden önce yapılması gereken hazırlıkları @BeforeMethod ile, testlerden sonra yapılacak temizlik işlemlerini ise @AfterMethod ile düzenleyebileceğimizi gördük. Bu anotasyonlar, testlerin daha düzenli ve esnek olmasını sağlıyor. Ayrıca, @Test anotasyonu sayesinde test metotlarını işaretleyebildik ve sonuçları doğrulamak için assertEquals() gibi doğrulama metotlarını kullanmayı öğrendik. Bunun dışında, @BeforeClass ve @AfterClass anotasyonlarının, test sınıfındaki tüm testlerden önce ve sonra yapılması gereken işlemler için kullanıldığını öğrendik. Bu, kaynakları daha verimli yönetmemizi sağlıyor.
+
+Web sayfalarındaki elementlerle etkileşim kurma konusunda da önemli bilgiler edindik. findElement ile tek bir elementi, findElements ile birden fazla elementi seçmeyi ve XPath ile dinamik elementleri nasıl bulacağımızı öğrendik. XPath’teki fonksiyonlar, element bulmayı oldukça kolaylaştırıyor.
+
+Gezinti işlemleri de önemli bir konu oldu. Selenium’un navigate() komutları ile sayfalara gitme, geri dönme ve sayfayı yenileme işlemleri hakkında bilgi sahibi olduk.
+
+Sonuç olarak, bugünkü ders otomasyon testi yazma sürecine dair güçlü bir temel sağladı. Öğrendiğimiz tekniklerle test yazma süreçlerini daha bilinçli ve sistematik bir şekilde ilerletebileceğimizi düşünüyorum.
