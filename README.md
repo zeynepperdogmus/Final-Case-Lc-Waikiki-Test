@@ -58,6 +58,8 @@ Projenin çalıştırılabilmesi için aşağıdaki gereksinimlerin karşılanma
 - **Favorilerim Sayfası ve Doğrulama:**
     - Favorilere eklenen ürünün favorilerim sayfasında listelendiği kontrol edilir.
 
+![Image](https://github.com/user-attachments/assets/02a94b5f-6b3b-418e-b2cd-43f1f90f41ba)
+
 ## Proje Yapısı
 ```plaintext
 lcw-test-automation/
